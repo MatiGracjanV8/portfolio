@@ -742,6 +742,7 @@ section {
     }
     #main .card{
         scroll-snap-align: start;
+        scroll-snap-stop: always;
     }
     .card{
         min-height: 60vh;
